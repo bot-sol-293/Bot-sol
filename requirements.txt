@@ -1,5 +1,0 @@
-ccxt
-flask
-requests
-python-telegram-bot
-numpy
